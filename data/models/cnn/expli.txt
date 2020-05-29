@@ -1,0 +1,23 @@
+un modèle CNN fonctionnel avait été trouvé par Hamza, nous avons ensuite fait quelques tests :
+
+Modèles .h5 trop lourds mais étaient bien présents dans l'analyse, supression de ceux qui sont trop volumineux
+
+* tester plusieurs fois le modèle d'hamza pour s'assurer de sa performance
+
+* Test de VGGs simplistes
+
+* Test du VGG
+
+* Petites modifs modele hamza pour voir comment le modèle réagit
+
+* Test du modèle regu inspiré de cifar
+
+* Essais pour réduire / kill les variations
+
+* Pousser les meilleurs modèles (modèle hamza avec 2 conv 60 + pool, 1 conv 120 pool,
+ 1 conv 60 pool)
+
+* Data aug sur modèle hamza (en plus de la data aug originelle)
+
+* model_run ... ==> meilleur modèle
+

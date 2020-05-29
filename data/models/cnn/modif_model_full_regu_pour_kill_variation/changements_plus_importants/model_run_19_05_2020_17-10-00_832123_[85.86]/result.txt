@@ -1,0 +1,6 @@
+On retrouve toujours d'énormes chutes, je ne sais pas pourquoi elles sont déclenchées,
+c'est vraiment déroutant.
+
+Pour le prochain essai je vais faire un modèle plus simple sans couche Dense finale, avec
+seulement 6 couches (64 64 128 128 256 256) et un autre modèle avec 4 couches sans dense
+(64,64,128,128) voir si la variation s'estompe

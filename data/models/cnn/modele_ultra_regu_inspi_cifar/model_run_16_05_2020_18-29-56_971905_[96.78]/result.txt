@@ -1,0 +1,6 @@
+trop de mouvement pour la val_accu et val_loss
+
+tentative suivante avec 150 epochs, batch size à 350, images en 64x64, dropout evolutif
+ (+ 0.1 a chaque fois) et toujours faire la dense, commencer à 32 et s'arrêter à 256
+
+Supprimer la regu l1 et l2

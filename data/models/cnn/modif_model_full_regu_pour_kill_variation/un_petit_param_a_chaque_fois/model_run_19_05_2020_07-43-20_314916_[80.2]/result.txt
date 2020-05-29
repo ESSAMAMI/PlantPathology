@@ -1,0 +1,2 @@
+la variation ne diminue pas avec les temps, vers 175 - 200 epochs on atteint la perf
+maximale

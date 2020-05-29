@@ -1,0 +1,3 @@
+cette fois ci le modèle d'hamza n'est pas très performant étrangement, il faudrait retester
+
+5 fois ce modèle pour se faire une idée du résultat moyen

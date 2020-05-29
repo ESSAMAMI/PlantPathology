@@ -1,0 +1,3 @@
+Résultats un peu meilleur, étrangement val_accu au dessus d'accu
+
+Essayer plusieurs fois ce modèle pour voir si c'est constant

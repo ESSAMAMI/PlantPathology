@@ -1,0 +1,4 @@
+Changer l1 et l2 donne de mauvais résultats => critère peu pertinent
+
+Tester un VGG 16 
+(https://towardsdatascience.com/step-by-step-vgg16-implementation-in-keras-for-beginners-a833c686ae6c)

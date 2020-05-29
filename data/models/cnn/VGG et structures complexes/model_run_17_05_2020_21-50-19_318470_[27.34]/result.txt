@@ -1,0 +1,7 @@
+Les modèles VGG n'apprennent pas, ils restent toujours vers 0.26
+
+Cela vient peut être du fait que ces modèles sont souvents utiliser dans des cas où il y 
+a un grand nombre d'image pour chaque catégorie.
+
+Je pensais aussi que l'arrêt de l'entrainement était peut être dû à la trop petite taille des
+images, mais meme en 224,224,3 l'apprentissage reste comme figé

@@ -1,0 +1,2 @@
+Pas toujours bon vu que cette fois ci n'a pas atteint les 80, pour évaluer un peu mieux
+la perf du modèle d'hamza, essayer de le lancer 4-5 fois

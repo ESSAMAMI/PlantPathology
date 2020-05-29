@@ -1,0 +1,4 @@
+Trop de rebonds, la padding valid seul n'est pas utile, tentative kernel_size seul
+
+Petite erreur, batchnorm a été laissée, on la retire pour le prochain run 
+(peu être que la variation va diminuer en retirant la batchnorm, c'est même presque sur)

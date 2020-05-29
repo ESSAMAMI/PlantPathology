@@ -1,0 +1,4 @@
+curieusement, modèle d'hamza sans les dropout en conservant padding valid et kernel size 
+se bloque vite
+
+Test avec padding same

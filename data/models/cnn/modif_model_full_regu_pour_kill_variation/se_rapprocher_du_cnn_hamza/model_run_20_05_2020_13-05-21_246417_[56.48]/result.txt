@@ -1,0 +1,12 @@
+A peu près les mêmes résultats avec padding same,
+
+tester avec 0.25 dropout partout + 0.35 dropout sur la flatten , toujours padding same
+
+2 fois pour voir si on atteint a peu près le même résultat qu'hamza
+
+Si c'est le cas on aura deux choix
+
+* ameliorer le modèle au mieux 
+
+* trouver d'abord un modèle capable d'avoir un "plateau" plus haut sans variations abusives
+et appliquer les dropout

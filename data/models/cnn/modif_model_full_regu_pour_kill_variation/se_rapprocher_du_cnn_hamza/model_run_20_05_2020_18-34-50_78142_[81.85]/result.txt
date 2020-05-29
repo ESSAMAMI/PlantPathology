@@ -1,0 +1,3 @@
+a peu près mêmes résultats que modèle hamza malgré average count
+
+Tester 2 autres modèles en max pool

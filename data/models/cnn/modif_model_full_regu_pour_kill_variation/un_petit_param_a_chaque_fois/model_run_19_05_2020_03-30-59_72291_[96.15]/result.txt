@@ -1,0 +1,2 @@
+toujours autant de variations, et souvent très amples, mettre du dropout en grande quantité 
+peu être dangereux pour la stabilité
